@@ -40,7 +40,7 @@ function add_footer() {
   try {
     $('#about_fot1').html("關於 " + SITE_NAME)
     $('#about_fot2').html("關於 " + SITE_NAME)
-    $('#copyright').html("Copyright © 2023 " + COPYRIGHT)
+    $('#copyright').html("Copyright © 2025 " + COPYRIGHT)
 
     // Visible
     if (SITE_TYPE == 0) {

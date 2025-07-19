@@ -9,12 +9,12 @@ HOST_URL_LLMTWINS = "https://phidata.4impact.cc"
 HOST_URL_EID = "https://eid.townway.com.tw";
 
 // Site hoster
-SITE_HOSTERS = ["jinliao0601@gmail.com"]
+SITE_HOSTERS = ["meinongtabako@gmail.com"]
 
 // Site information
 SITE_TYPE = 0 // 0 or 1(公板)
-SITE_NAME = "Second Ocean"
-COPYRIGHT = "Second Ocean"
+SITE_NAME = "KS Sosus"
+COPYRIGHT = "南方永續支持平台"
 
 // Weight : SDGs, 人文地產景, 德智體群美
 WEIGHT = [1, 1, 1]
